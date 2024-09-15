@@ -2462,7 +2462,7 @@ div[class^=notice] button:hover {
   font-weight: bold;
 }
 [class*=wordmark]::after {
-  content: "v5.8.1";
+  content: "v1.0.0";
   margin-left: 8px;
   color: rgba(255, 255, 255, 0.3);
   font-size: 14px;
