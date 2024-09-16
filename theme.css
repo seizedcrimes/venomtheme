@@ -143,20 +143,20 @@
 }
 
 :root {
-  --app-background: url("https://przemec.github.io/Novum/assets/images/app.png");
-  --main-color: #992727;
-  --main-color-selected: #aa2f2f;
-  --main-color-semitransparent: #d4393926;
-  --main-color-semitransparent-selected: #d336364d;
-  --accent-color: #fd9fa0;
-  --accent-color-semitransparent: #fca7a918;
-  --accent-saturated: #fd7a7c;
-  --accent-desaturated: #b47a7a;
-  --button-text: #dddddd;
-  --button-text-selected: #ffffff;
-  --profile-background: url("https://przemec.github.io/Novum/assets/images/profile.png");
-  --profile-activity: #6d1515;
-  --scroll-thumb-color: #a54b4b;
+  --app-background: url("https://seizedcrimes.github.io/venomtheme/assets/venombgprpl.jpg");
+  --main-color: #704e97; /* main color (used mostly in buttons) [default: #992727] */
+  --main-color-selected: #9c2faa; /* [default: #aa2f2f] */
+  --main-color-semitransparent: #d4393926; /* [default: #d4393926] */
+  --main-color-semitransparent-selected: #4b3f5f4d; /* [default: #d336364d] */
+  --accent-color: #674b81; /* accent color (used in links, mentions etc.) [default: #fd9fa0] */
+  --accent-color-semitransparent: #fca7a918; /* [default: #fca7a918] */
+  --accent-saturated: #5d2a7a; /* [default: #fd7a7c] */
+  --accent-desaturated: #a770d4; /* [default: #b47a7a] */
+  --button-text: #ffffff; /* [default: #dddddd] */
+  --button-text-selected: #ffffff; /* [default: #ffffff] */
+  --profile-background: url("https://seizedcrimes.github.io/venomtheme/assets/profilevenomprpl.jpg");
+  --profile-activity: #4b4242; /* color of activity field in profile left-click popout [default: #6d1515] */
+  --scroll-thumb-color: #9960cf; /* color of scrollbars [default: #a54b4b] */
 }
 
 body::after {
